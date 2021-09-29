@@ -34,5 +34,5 @@
 
 
 <p align='center'>
-  📫 <a href='mailto:rkrishnakumar1709@gmail.com'>rkrishnakumar1709@gmail.com</a>
+  📫 reach me at <a href='mailto:rkrishnakumar1709@gmail.com'>rkrishnakumar1709@gmail.com</a>
 </p>
