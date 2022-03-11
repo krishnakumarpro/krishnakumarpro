@@ -22,14 +22,14 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=krishnakumarpro&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
+<!--<p align='center'>
   💻 Known Languages and Databases<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</p>-->
 
 
 
