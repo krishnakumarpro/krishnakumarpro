@@ -4,7 +4,7 @@
   Hi there 👋 I'm Krishnakumar 👨‍💻
 </h1>
 
-<p align='center'>
+<!--<p align='center'>
   Software Developer
 </p>
 
@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-</p>
+</p>-->
 
-<p align='center'>
+<!--<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=krishnakumarpro&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p>-->
 
 <!--<p align='center'>
   💻 Known Languages and Databases<br/><br/>
@@ -32,7 +32,7 @@
 </p>-->
 
 
-
+<!--
 <p align='center'>
   📫 reach me at <a href='mailto:rkrishnakumar1709@gmail.com'>rkrishnakumar1709@gmail.com</a>
-</p>
+</p>-->
